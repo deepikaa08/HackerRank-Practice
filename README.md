@@ -1,2 +1,19 @@
 # HackerRank-Practice
+
+Easy: 
 1. Welcome to Java
+2. Java Stdin and Stdout I
+3. Java Stdin and Stdout II
+4. Output Formatting
+5. Java Loops I
+6. Java Loops II
+7. DataTypes
+8. End Of File
+9. Static Initializer Block
+10. Int to String
+11. Date and Time
+12. Currency Formatter
+13. Strings Introduction
+14. Substring
+15. Substring Comparison
+16. Reverse
