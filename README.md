@@ -17,3 +17,6 @@ Easy:
 14. Substring
 15. Substring Comparison
 16. Reverse
+17. Anagrams
+18. String tokens
+19. Syntax Checker
