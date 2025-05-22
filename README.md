@@ -20,3 +20,7 @@ Easy:
 17. Anagrams
 18. String tokens
 19. Syntax Checker
+20. Valid Username Regular Expression
+21. Primality Test
+22. BigInteger
+23. 1D Array
