@@ -24,3 +24,4 @@ Easy:
 21. Primality Test
 22. BigInteger
 23. 1D Array
+24. 2D Array
