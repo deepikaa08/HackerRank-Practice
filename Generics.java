@@ -7,7 +7,7 @@ class Elements{
         }
     }
 }
-public class Generics {
+public class Generics{
 
     public static void main(String[] args) {
         Elements e = new Elements();
