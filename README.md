@@ -30,3 +30,5 @@ Easy:
 27. Java List
 28. Java Map
 29. Java HashSet
+30. Java Generics
+    
