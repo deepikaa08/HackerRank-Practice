@@ -25,3 +25,7 @@ Easy:
 22. BigInteger
 23. 1D Array
 24. 2D Array
+25. Java Subarray
+26. Java ArrayList
+27. Java List
+28. Java Map
