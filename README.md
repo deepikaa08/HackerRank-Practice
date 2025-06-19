@@ -31,4 +31,7 @@ Easy:
 28. Java Map
 29. Java HashSet
 30. Java Generics
+31. Java Sort
+32. Java BitSet
+33. Inheritance 1
     
